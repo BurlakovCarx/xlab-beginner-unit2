@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("xlab-console-app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5006acbc7f1caad3a020aa2ff09eb7e42405982")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d5ebda825d29a3917b870562c744072e28fbd23")]
 [assembly: System.Reflection.AssemblyProductAttribute("xlab-console-app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("xlab-console-app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
