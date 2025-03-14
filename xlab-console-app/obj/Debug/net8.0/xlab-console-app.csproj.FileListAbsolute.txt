@@ -12,3 +12,4 @@ C:\Users\user\xlab\unit2\xlab-console-app\xlab-console-app\obj\Debug\net8.0\refi
 C:\Users\user\xlab\unit2\xlab-console-app\xlab-console-app\obj\Debug\net8.0\xlab-console-app.pdb
 C:\Users\user\xlab\unit2\xlab-console-app\xlab-console-app\obj\Debug\net8.0\xlab-console-app.genruntimeconfig.cache
 C:\Users\user\xlab\unit2\xlab-console-app\xlab-console-app\obj\Debug\net8.0\ref\xlab-console-app.dll
+C:\Users\user\xlab\unit2\xlab-console-app\xlab-console-app\obj\Debug\net8.0\xlab-console-app.sourcelink.json
