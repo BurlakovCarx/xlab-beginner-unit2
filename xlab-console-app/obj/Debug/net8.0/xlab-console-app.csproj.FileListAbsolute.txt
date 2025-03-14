@@ -1,0 +1,14 @@
+C:\Users\user\xlab\unit2\xlab-console-app\xlab-console-app\bin\Debug\net8.0\xlab-console-app.exe
+C:\Users\user\xlab\unit2\xlab-console-app\xlab-console-app\bin\Debug\net8.0\xlab-console-app.deps.json
+C:\Users\user\xlab\unit2\xlab-console-app\xlab-console-app\bin\Debug\net8.0\xlab-console-app.runtimeconfig.json
+C:\Users\user\xlab\unit2\xlab-console-app\xlab-console-app\bin\Debug\net8.0\xlab-console-app.dll
+C:\Users\user\xlab\unit2\xlab-console-app\xlab-console-app\bin\Debug\net8.0\xlab-console-app.pdb
+C:\Users\user\xlab\unit2\xlab-console-app\xlab-console-app\obj\Debug\net8.0\xlab-console-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\xlab\unit2\xlab-console-app\xlab-console-app\obj\Debug\net8.0\xlab-console-app.AssemblyInfoInputs.cache
+C:\Users\user\xlab\unit2\xlab-console-app\xlab-console-app\obj\Debug\net8.0\xlab-console-app.AssemblyInfo.cs
+C:\Users\user\xlab\unit2\xlab-console-app\xlab-console-app\obj\Debug\net8.0\xlab-console-app.csproj.CoreCompileInputs.cache
+C:\Users\user\xlab\unit2\xlab-console-app\xlab-console-app\obj\Debug\net8.0\xlab-console-app.dll
+C:\Users\user\xlab\unit2\xlab-console-app\xlab-console-app\obj\Debug\net8.0\refint\xlab-console-app.dll
+C:\Users\user\xlab\unit2\xlab-console-app\xlab-console-app\obj\Debug\net8.0\xlab-console-app.pdb
+C:\Users\user\xlab\unit2\xlab-console-app\xlab-console-app\obj\Debug\net8.0\xlab-console-app.genruntimeconfig.cache
+C:\Users\user\xlab\unit2\xlab-console-app\xlab-console-app\obj\Debug\net8.0\ref\xlab-console-app.dll
